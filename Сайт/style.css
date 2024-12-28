@@ -1,0 +1,43 @@
+.one{
+    background-color:#E8E5D2;
+    
+}
+.two{
+    background-color:#CBAFAF ;
+}
+.three{
+    background-color: #E8E5D2;
+}
+.first{
+    display:flex;
+    justify-content:space-between;
+    
+}
+img{
+    width:600px;
+    height:650px;
+    margin-right:30px;
+}
+p{
+    color:black;
+    font-size:24px;
+}
+ul{
+    color:black;
+    font-size:23px;
+}
+a{
+    display:inline-block;
+    color:black;
+    background-color:#DED16E;
+    text-decoration:none;
+    padding:10px 40px;
+    border-radius:5px;
+    margin-left: 20px;
+}
+.header{
+    background-color:#F1E585;
+    display:flex;
+    justify-content:flex-end;
+
+}
